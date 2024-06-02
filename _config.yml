@@ -1,17 +1,20 @@
-title: JiohWebsite
+title: Jioh's Website
 description: The description of your site.
-email: your-email@address.com
+email: geo2427@gmail.com
 
 author: Your name #  Default is your site title.
 
 # Your social accounts.
 social:
-  github: github_username
-  twitter: twitter_username
-  facebook: facebook_username
-  instagram: instagram_username
   linkedin: linkedin_username
-  weibo: weibo_username
+  github: github_username
+  Vimeo: linkedin_username
+  ArtStation: linkedin_username
+  YouTube: linkedin_username
+  # twitter: twitter_username
+  # facebook: facebook_username
+  # instagram: instagram_username
+  # weibo: weibo_username
 
 # Theme Settings
 
